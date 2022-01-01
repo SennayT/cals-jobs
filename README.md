@@ -33,6 +33,7 @@ php artisan key:generate
 Run migrations
 
 ```bash
+touch database/database.sqlite
 php artisan migrate
 ```
 
